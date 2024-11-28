@@ -1,6 +1,6 @@
 # Weather App
 
-This is a simple weather application that allows users to enter a city name and view the current weather data including temperature, humidity, weather description, and an emoji representing the weather condition.
+This is a simple weather application that allows users to enter a city, country or continent name and view the current weather data including temperature, humidity, weather description, and an emoji representing the weather condition.
 
 ## Screenshot
 
@@ -12,7 +12,7 @@ This is a simple weather application that allows users to enter a city name and 
 
 ## Features
 
-- Users can input a city name to get the current weather data.
+- Users can input a city, country or continent name to get the current weather data.
 - Displays temperature in Celsius, humidity percentage, and weather description.
 - Displays weather-related emojis based on the weather conditions.
 - Handles errors when city input is invalid or if the weather data cannot be fetched.
